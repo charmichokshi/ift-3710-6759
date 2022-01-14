@@ -9,7 +9,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Charmi Chokshi, charmichokshi
-
+* name, uname
 
 ## Intro to Markdown
 
